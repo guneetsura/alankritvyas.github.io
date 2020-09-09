@@ -11,9 +11,34 @@
     color: red; /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
-
+  card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: white;
+    margin-top: 2%;
+   
+  }
+  .container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .bg-4 { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+    margin-bottom: 2%;
+  }
   body {
-    background-color: beige; /* set the background color here */
+    background-image: url('https://www.templatemonster.com/blog/wp-content/uploads/2014/09/5-Blurred-Backgrounds.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
     color: black; /* set the text color to black here */
     font-family: Arial, Helvetica, sans-serif; /* set the font here */
     text-align: center; /* set the text alignment here */
@@ -61,3 +86,4 @@
     margin: 0 auto;
     text-align: left;
   }
+  
