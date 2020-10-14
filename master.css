@@ -8,7 +8,7 @@
   }
 
   a:hover {
-    color: white; /* set the text color to red here */
+    color: red; /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
   card {
@@ -31,7 +31,7 @@
     margin-bottom: 2%;
   }
   body {
-    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/271eaa23-7e5c-47f8-90dd-bb7ccaf7c682/d4yvcut-292b48fa-a185-4f4b-a6c2-2e89b249cf6a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjcxZWFhMjMtN2U1Yy00N2Y4LTkwZGQtYmI3Y2NhZjdjNjgyXC9kNHl2Y3V0LTI5MmI0OGZhLWExODUtNGY0Yi1hNmMyLTJlODliMjQ5Y2Y2YS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.BmuuQG1gPlTm1CG4QtxsCBVB0C7Pe8vyeNUxJeBNCsU');
+    background-image: url('https://www.templatemonster.com/blog/wp-content/uploads/2014/09/5-Blurred-Backgrounds.jpg');
     height: 100%;
     background-position: center;
     background-size: cover;
@@ -39,7 +39,7 @@
     color: black;
     font-family: "Courier New", Courier, monospace;
     font-size: 25px;
-    color:whitesmoke; /* set the text color to black here */
+    color: black; /* set the text color to black here */
     font-family: Arial, Helvetica, sans-serif; /* set the font here */
     text-align: center; /* set the text alignment here */
    }
